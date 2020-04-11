@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+docker-compose up -d && \
+echo "
+================ 🚀 Iniciando 🚀 ===================
+      Criado por Lucas Apoena
+      
+      Links de Acesso:
+
+      🌎 Web server:   http://localhost:81
+      ⚙️  Adminer:      http://localhost:8080
+
+================ 🚀 -------- 🚀 ==================="
